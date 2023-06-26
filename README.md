@@ -179,7 +179,7 @@ aws --version
 aws configure
 ```
 
-- `extension.json`: File recommending extensions for the project. The extensions used are "grapecity.gc-excelviewer" and "ms-ossdata.vscode-postgresql", which aid in working with Excel files and PostgreSQL, respectively.
+- `extension.json`: File recommending extensions for the project. The extensions used are `grapecity.gc-excelviewer` and `ms-ossdata.vscode-postgresql`, which aid in working with Excel files and PostgreSQL, respectively.
 
 The file structure provides a clear organization of the project's components, including the scripts for data loading and transformations, input and output data files, and supplementary files for documentation and tooling.
 
